@@ -1,13 +1,13 @@
 package me.whiteship.demospringhateoas;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemospringhateoasApplicationTests {
+public class DemospringhateoasApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
 
 }
